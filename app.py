@@ -1,0 +1,1 @@
+Full Streamlit web application with city selectors, exertion dropdowns, live observation cards, color-coded risk alerts, work-rest directives, and interactive 24-hour WBGT forecast charts.
